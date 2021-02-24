@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolutionFamily.ClientSDK", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "show-structure", "examples\show-structure\show-structure.csproj", "{02896EE3-A477-434B-8080-1EF79AEC54FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "set-values", "examples\set-values\set-values.csproj", "{70D6ACA1-5217-432E-859D-9609BEFBA735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{02896EE3-A477-434B-8080-1EF79AEC54FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02896EE3-A477-434B-8080-1EF79AEC54FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02896EE3-A477-434B-8080-1EF79AEC54FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D6ACA1-5217-432E-859D-9609BEFBA735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D6ACA1-5217-432E-859D-9609BEFBA735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D6ACA1-5217-432E-859D-9609BEFBA735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D6ACA1-5217-432E-859D-9609BEFBA735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

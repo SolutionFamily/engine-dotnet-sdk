@@ -35,7 +35,9 @@ namespace show_structure
             foreach (var d in engine.Devices)
             {
                 PrintNode(d, 1);
-            }            
+            }
+
+            Console.ReadKey();
         }
     }
 }
